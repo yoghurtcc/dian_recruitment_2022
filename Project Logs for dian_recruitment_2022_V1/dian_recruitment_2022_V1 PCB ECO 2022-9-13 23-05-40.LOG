@@ -1,0 +1,18 @@
+Change Component Comment : Designator=D1 Old Comment=LED New Comment=PC4
+Change Component Comment : Designator=D2 Old Comment=LED New Comment=PC4
+Change component parameters: Designator = "D1" ("D1"); Footprint = "0603_LED_RED"; UniqueID = "\AAPUSOQO" ("\AAPUSOQO")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_73150.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C72041"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "0603_LED_RED"; UniqueID = "\SHEBUQKP" ("\SHEBUQKP")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "供应商链接"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_73150.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "0603"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C72041"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=dian_recruitment_2022_V1 Member=Component D1 PC4
+Added Member To Class: ClassName=dian_recruitment_2022_V1 Member=Component D2 PC4

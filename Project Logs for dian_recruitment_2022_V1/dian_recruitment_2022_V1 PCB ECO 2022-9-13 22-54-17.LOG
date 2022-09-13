@@ -1,0 +1,34 @@
+Added Component: Designator=R6(0603_R)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0603_R)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "50"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(XTAL-3225)
+Add component (AddParameter): Name = "Assembly"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Certification"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "EPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Marking"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price_Batch"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price_Sample"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "CY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1C208000CE0R_SMD-3225_4P_SMD0.85"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=USB_DP Pin=R6-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=USB_DM Pin=R7-2
+Added Pin To Net: NetName=OSC_IN Pin=Y1-1
+Added Pin To Net: NetName=NetC2_1 Pin=Y1-2
+Added Pin To Net: NetName=OSC_OUT Pin=Y1-3
+Added Pin To Net: NetName=NetC3_1 Pin=Y1-4

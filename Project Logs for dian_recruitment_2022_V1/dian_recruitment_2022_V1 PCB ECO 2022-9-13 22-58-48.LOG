@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetD1_A Pin=R8-1
+Added Component: Designator=D1(0603_LED_GREEN)
+Added Component: Designator=D2(0603_LED_BLUE)
+Added Pin To Net: NetName=NetD1_A Pin=R12-1
+Added Class: Name=dian_recruitment_2022_V1

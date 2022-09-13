@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=D2 Old Footprint=0603_LED_BLUE New Footprint=0603_LED_RED
+Change Component Footprint: Designator=D1 Old Footprint=0603_LED_GREEN New Footprint=0603_LED_RED
+Added Pin To Net: NetName=NetD2_A Pin=R8-1
+Added Net: Name=NetD2_A
+Added Member To Class: ClassName=dian_recruitment_2022_V1 Member=Component D1 LED
+Added Member To Class: ClassName=dian_recruitment_2022_V1 Member=Component D2 LED
