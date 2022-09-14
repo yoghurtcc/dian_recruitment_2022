@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=USB_DP Pin=R6-2
+Removed Pin From Net: NetName=USB_DM Pin=R7-2
+Removed Member From Class: ClassName=dian_recruitment_2022_V1 Member=R6
+Removed Member From Class: ClassName=dian_recruitment_2022_V1 Member=R7
+Added Pin To Net: NetName=USB_DP Pin=USB1-A6
+Added Pin To Net: NetName=USB_DM Pin=USB1-A7
