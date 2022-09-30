@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [dian_recruitment_2022_V1.PrjPcb]
+   Generated File[Pick Place for dian_recruitment_2022_V1.csv]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 19:01:50 On 2022/9/26

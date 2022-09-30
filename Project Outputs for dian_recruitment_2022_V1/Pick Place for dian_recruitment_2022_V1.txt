@@ -1,0 +1,61 @@
+Altium Designer Pick and Place Locations
+D:\PCB project\dian_recruitment_2022\dian_recruitment_2022_V1\dian_recruitment_2022\Project Outputs for dian_recruitment_2022_V1\Pick Place for dian_recruitment_2022_V1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/09/22
+Time:       14:40
+Revision:   45dda25b52ed0f7f9595177782e2fb1b6729db74
+Variant:    No variations
+Units used: mil
+
+Designator Comment         Layer       Footprint     Center-X(mil) Center-Y(mil) Rotation Description                    
+""         "Header 7"      TopLayer    HDR1X7        60.000        470.000       90       "Header, 7-Pin"                
+""         104             BottomLayer 0603_C        210.000       1030.000      90       ""                             
+""         "Header 3"      TopLayer    HDR1X3        60.000        1025.000      270      "Header, 3-Pin"                
+""         TYPEC-304-ACP16 TopLayer    USB_TYPEC     803.544       212.363       0        ""                             
+""         PC4             TopLayer    0603_LED_RED  415.000       1445.000      90       发光二极管                          
+""         PC4             TopLayer    0603_LED_RED  1135.945      52.000        0        发光二极管                          
+""         8M              TopLayer    XTAL-3225     335.630       1089.213      0        "Crystal Oscillator"           
+""         MPU6500         TopLayer    QFN24         370.000       635.000       270      ""                             
+""         AMS1117-3.3     TopLayer    SOT-223       1205.551      592.952       270      ""                             
+""         STM32F103C8T6   TopLayer    LQFP-48P      640.000       1105.000      270      ""                             
+""         ""              BottomLayer MSOP-10P[0.5] 925.000       625.000       90       CH340E                         
+""         10K             TopLayer    0603_R        1215.000      1020.000      270      ""                             
+""         10K             TopLayer    0603_R        1200.000      1110.000      180      ""                             
+""         Res2            TopLayer    0603_R        1276.496      64.997        0        Resistor                       
+""         4.7K            TopLayer    0603_R        580.000       670.000       0        ""                             
+""         4.7K            TopLayer    0603_R        189.997       508.504       270      ""                             
+""         4.7K            TopLayer    0603_R        313.504       460.003       0        ""                             
+""         Res2            TopLayer    0603_R        330.000       1445.000      270      Resistor                       
+""         10K             BottomLayer 0603_R        460.000       345.000       180      ""                             
+""         10K             BottomLayer 0603_R        1230.000      465.000       0        ""                             
+""         10K             BottomLayer 0603_R        1100.000      460.000       0        ""                             
+""         10K             BottomLayer 0603_R        145.000       145.000       180      ""                             
+""         10K             TopLayer    0603_R        610.000       1395.000      270      ""                             
+""         "Header 4"      TopLayer    HDR1X4        1190.000      1555.000      90       "Header, 4-Pin"                
+""         "Header 4"      BottomLayer HDR1X4        680.000       1710.000      0        "Header, 4-Pin"                
+""         "Header 4"      TopLayer    HDR1X4        1312.500      1557.500      270      "Header, 4-Pin"                
+""         PB13            BottomLayer key           448.740       153.423       180      KEY_SWI                        
+""         PB13            BottomLayer KEY-4.5*4.5mm 1190.000      125.000       0        KEY_SWI                        
+""         PB13            BottomLayer KEY-4.5*4.5mm 1194.921      315.945       0        KEY_SWI                        
+""         NRST            BottomLayer KEY-4.5*4.5mm 210.000       400.000       90       KEY_SWI                        
+""         104             TopLayer    0603_C        700.000       495.000       270      ""                             
+""         1uF             TopLayer    0603_C        586.496       459.997       0        ""                             
+""         100nF           TopLayer    0603_C        583.504       600.003       0        ""                             
+""         10nF            TopLayer    0603_C        583.504       530.003       0        ""                             
+""         100nF           TopLayer    0603_C        436.496       459.997       180      ""                             
+""         100nF           TopLayer    0603_C        940.000       1125.000      0        ""                             
+""         100nF           TopLayer    0603_C        335.000       1300.000      180      ""                             
+""         100nF           TopLayer    0603_C        940.000       1205.000      0        ""                             
+""         100nF           TopLayer    0603_C        750.000       820.000       270      ""                             
+""         100nF           TopLayer    0603_C        530.003       1391.496      90       ""                             
+""         0.1uF           TopLayer    0603_C        1080.000      790.000       270      Capacitor                      
+""         220uF           TopLayer    CTan-A        1230.000      255.000       90       "Polarized Capacitor (Radial)" 
+""         0.1uF           TopLayer    0603_C        1320.000      245.000       90       Capacitor                      
+""         104             BottomLayer 0603_C        1231.496      535.003       180      ""                             
+""         104             BottomLayer 0603_C        1096.496      535.003       180      ""                             
+""         20pF            TopLayer    0603_C        335.000       1220.000      180      ""                             
+""         20pF            TopLayer    0603_C        335.000       940.000       0        ""                             
+""         100nF           BottomLayer 0603_C        144.252       58.740        180      ""                             
